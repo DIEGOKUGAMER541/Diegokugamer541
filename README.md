@@ -2,7 +2,6 @@
 
  <p>
   <a href="https://youtube.com/@diegokugamer541" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCZd_gLDnuHlOvKeuVtF7Icw?style=for-the-badge&logo=youtube&logoColor=%23FF0000&label=Suscriptores&labelColor=%23282828&color=%23FF0000"></a>
-
   <a href="https://www.twitch.tv/diegokugamer541" target="_blank"><img src="https://img.shields.io/twitch/status/diegokugamer541?style=for-the-badge&logo=twitch&logoColor=%239146FF&label=Twitch&labelColor=%23000000&color=%239146FF"></a>
 </p>
 
