@@ -5,8 +5,6 @@
   <a href="https://www.twitch.tv/diegokugamer541" target="_blank"><img src="https://img.shields.io/twitch/status/diegokugamer541?style=for-the-badge&logo=twitch&logoColor=%239146FF&label=Twitch&labelColor=%23000000&color=%239146FF"></a>
 </p>
 ## Discord
-<br>
-<label>Diegokuagemr541 content</label>
 <p>
 <a href="https://discord.gg/SGndSydPmX" target="_blank"><img src="https://img.shields.io/discord/788915800986877965?style=for-the-badge&logo=discord&label=Diegokugamer541"></a>
 <a href="https://discord.gg/Fpu2zfjsjw" target="_blank"><img src="https://img.shields.io/discord/761407680040402974?style=for-the-badge&logo=discord&label=Fantasmones"></a>
